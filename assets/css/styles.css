@@ -153,3 +153,5 @@ section.s{padding:110px 0}
  .brand-name{font-size:15px}.cta .btn{flex:1 1 auto;justify-content:center}
 }
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.rv{opacity:1;transform:none}.w>span{transform:none}.tl-line span{transform:none}}
+
+.ph,.testi:has(.ph){display:none}
